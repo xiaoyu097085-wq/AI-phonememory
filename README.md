@@ -5,7 +5,7 @@
 ### 🚀 第一步：一键部署
 
 登录 Cloudflare 账号（免费）并一路点击确认部署即可：
-(https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xiaoyu097085-wq/AI-phonememory)
+
 
 部署完成后，你会得到一个属于自己的网址（例如：`https://ai-phonememory.xxx.workers.dev`）。
 
