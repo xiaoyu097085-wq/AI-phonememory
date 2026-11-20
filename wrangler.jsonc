@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ai-phone-memory",
+  "main": "src/index.js",
+  "compatibility_date": "2026-01-01",
+  "kv_namespaces": [
+    {
+      "binding": "MEMORY_KV"
+    }
+  ]
+}
