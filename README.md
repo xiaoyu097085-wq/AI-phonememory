@@ -2,11 +2,10 @@
 
 只要部署这个专属云端网关，就能让你的 Char 拥有**自动整理的长期记忆**，还附带一个手机端可随时修改的**“记忆小本本”**。
 
-### 🚀 第一步：一键部署（1分钟完成）
+### 🚀 第一步：一键部署
 
-点击下方按钮，登录 Cloudflare 账号（免费）并一路点击确认部署即可：
-
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xiaoyu097085-wq/AI-phonememory)
+登录 Cloudflare 账号（免费）并一路点击确认部署即可：
+(https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xiaoyu097085-wq/AI-phonememory)
 
 部署完成后，你会得到一个属于自己的网址（例如：`https://ai-phonememory.xxx.workers.dev`）。
 
